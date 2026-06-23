@@ -1,0 +1,21 @@
+{
+    "name": "E-Menu POS System",
+    "short_name": "E-Menu",
+    "description": "Digital restaurant menu and POS system",
+    "start_url": "/vietnam/emenu/public/order",
+    "display": "standalone",
+    "background_color": "#281C59",
+    "theme_color": "#281C59",
+    "icons": [
+        {
+            "src": "/vietnam/emenu/public/assets/images/icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/vietnam/emenu/public/assets/images/icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
